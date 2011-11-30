@@ -21,7 +21,6 @@ bundle exec redstorm local lib/gof_in_the_cloud/topology.rb
 * Start a feature/bugfix branch.
 * Commit and push until you are happy with your contribution.
 * Make sure to add tests for it. This is important so I don't break it in a future version unintentionally.
-* Please do not change the Rakefile.
 
 ## Copyright
 
