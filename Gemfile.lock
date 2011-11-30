@@ -1,0 +1,27 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    crack (0.1.8)
+    multi_json (1.0.4)
+    pusher (0.8.4)
+      crack (~> 0.1.0)
+      multi_json (~> 1.0)
+      ruby-hmac (~> 0.4.0)
+      signature (~> 0.1.2)
+    rake (0.9.2.2)
+    redstorm (0.2.1)
+      rake (~> 0.9.2)
+      ruby-maven (~> 3.0.3.0.28.5)
+    ruby-hmac (0.4.0)
+    ruby-maven (3.0.3.0.28.5)
+      thor (~> 0.14.6)
+    signature (0.1.2)
+      ruby-hmac
+    thor (0.14.6)
+
+PLATFORMS
+  java
+
+DEPENDENCIES
+  pusher (~> 0.8.4)
+  redstorm (~> 0.2.0)
