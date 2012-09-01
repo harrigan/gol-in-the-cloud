@@ -1,16 +1,16 @@
 <pre>
-  ____       _____   _         _   _             ____ _                 _ 
- / ___| ___ |  ___| (_)_ __   | |_| |__   ___   / ___| | ___  _   _  __| |
-| |  _ / _ \| |_    | | '_ \  | __| '_ \ / _ \ | |   | |/ _ \| | | |/ _` |
-| |_| | (_) |  _|   | | | | | | |_| | | |  __/ | |___| | (_) | |_| | (_| |
- \____|\___/|_|     |_|_| |_|  \__|_| |_|\___|  \____|_|\___/ \__,_|\__,_|
+  ____       _       _         _   _             ____ _                 _ 
+ / ___| ___ | |     (_)_ __   | |_| |__   ___   / ___| | ___  _   _  __| |
+| |  _ / _ \| |     | | '_ \  | __| '_ \ / _ \ | |   | |/ _ \| | | |/ _` |
+| |_| | (_) | |___  | | | | | | |_| | | |  __/ | |___| | (_) | |_| | (_| |
+ \____|\___/|_____| |_|_| |_|  \__|_| |_|\___|  \____|_|\___/ \__,_|\__,_|
 </pre>
 
 ## Instructions
 
 ``` sh
 bundle install
-bundle exec redstorm local lib/gof_in_the_cloud/topology.rb
+bundle exec redstorm local lib/gol_in_the_cloud/topology.rb
 ```
 
 ## Contributing
@@ -24,4 +24,4 @@ bundle exec redstorm local lib/gof_in_the_cloud/topology.rb
 
 ## Copyright
 
-&copy; 2011 [Martin Harrigan](http://www.martinharrigan.ie)
+&copy; 2011, 2012 [Martin Harrigan](http://www.martinharrigan.ie)

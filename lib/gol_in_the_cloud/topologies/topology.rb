@@ -18,7 +18,7 @@ class Topology < RedStorm::SimpleTopology
     source AutomatonBolt, :fields => ["x", "y" ]
   end
   
-  configure :gof do |env|
+  configure :gol do |env|
     case env
     when :local
       debug true

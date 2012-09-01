@@ -12,6 +12,6 @@ module Notify
   end
   
   def notify message
-    Pusher["gof"].trigger! "update", message
+    Pusher["gol"].trigger! "update", message
   end
 end
